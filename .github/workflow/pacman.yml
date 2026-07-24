@@ -1,0 +1,21 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: pacman-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
