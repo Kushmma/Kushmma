@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwyNWh6dDVnOGQ2c3J0cDhiY3RyZmJlNG1vcGpiNTVhY3dha2MycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tMYOWRjFHveuOB6jg/giphy.gif" width="800"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwyNWh6dDVnOGQ2c3J0cDhiY3RyZmJlNG1vcGpiNTVhY3dha2MycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tMYOWRjFHveuOB6jg/giphy.gif" width="500"/>
 
 # Hi 👋, I'm **Kushma Shrestha**
 
@@ -159,13 +159,11 @@ me = KushmaShrestha()
 
 ---
 # 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Kushmma/Kushmma/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
 ---
 # 🌐 Connect With Me
 
